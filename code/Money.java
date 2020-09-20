@@ -4,7 +4,6 @@ import jsetl.*;
 import jsetl.exception.Failure;
 
 public class Money {
-	
 	public static void main (String[] args) throws Failure {
 		IntLVar s = new IntLVar("S", 0, 9);
 		IntLVar e = new IntLVar("E", 0, 9);
